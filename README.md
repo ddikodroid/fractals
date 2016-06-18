@@ -38,3 +38,6 @@ python fractal.py -i tree.ifs -n 5000 -t c
 
 EXAMPLE #2:
 python fractal.py -i sierp_tri.ifs -n 5 -t r
+
+
+More information (in Polish): http://regulomics.mimuw.edu.pl/wp/2015/12/zadanie-zaliczeniowe-nr-2-fraktale/
