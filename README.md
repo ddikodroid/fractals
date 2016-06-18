@@ -31,6 +31,8 @@ recommended number of iterations for:
 
 optimal: 5000-25000 (this is the number of points that will be drawn)
 
+# EXAMPLES
+
 EXAMPLE #1:
 python fractal.py -i tree.ifs -n 5000 -t c
 
